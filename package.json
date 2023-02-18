@@ -1,0 +1,14 @@
+{
+  "name": "speed-detection",
+  "version": "1.0.0",
+  "description": "speed detection using javascript .The mechanism involve loading image randomly and through speed can be detected",
+  "main": "index.js",
+  "scripts": {
+    "devstart": "scripts.js"
+  },
+  "keywords": [
+    "speed"
+  ],
+  "author": "Chulindra Rai",
+  "license": "ISC"
+}
